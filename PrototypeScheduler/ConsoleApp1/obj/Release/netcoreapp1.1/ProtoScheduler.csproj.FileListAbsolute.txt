@@ -1,0 +1,8 @@
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\bin\Release\netcoreapp1.1\ProtoScheduler.deps.json
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\bin\Release\netcoreapp1.1\ProtoScheduler.runtimeconfig.json
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\bin\Release\netcoreapp1.1\ProtoScheduler.runtimeconfig.dev.json
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\bin\Release\netcoreapp1.1\ProtoScheduler.dll
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\bin\Release\netcoreapp1.1\ProtoScheduler.pdb
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\obj\Release\netcoreapp1.1\ProtoScheduler.AssemblyInfo.cs
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\obj\Release\netcoreapp1.1\ProtoScheduler.dll
+c:\Users\t-yuliu1\Documents\Visual Studio 2017\Projects\PrototypeScheduler\ConsoleApp1\obj\Release\netcoreapp1.1\ProtoScheduler.pdb
