@@ -37,6 +37,9 @@ namespace ProtoScheduler
             candiry = from cst in candiry
                       where cst.Weight() == tmpmin
                       select cst;
+            candiry = from cst in candiry
+                      where !cst._excludeDates.Contains(current)
+                      select cst;
             if (current.DayOfWeek == DayOfWeek.Saturday || current.DayOfWeek == DayOfWeek.Sunday)
             {
                 int tempmin = candiry.Min(x=> x._weekEndCnt);
@@ -53,7 +56,6 @@ namespace ProtoScheduler
                           select cst;
             }
             var result = (from cst in candiry
-                          where !cst._excludeDates.Contains(current)
                           select cst.Name).ToArray();
             int len = result.Length;
             Random rand1 = new Random();
